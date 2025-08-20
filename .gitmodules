@@ -1,0 +1,100 @@
+[submodule "cosmic-app-library"]
+	path = cosmic-app-library
+	url = https://src.fedoraproject.org/rpms/cosmic-app-library.git
+	branch = rawhide
+[submodule "cosmic-applets"]
+	path = cosmic-applets
+	url = https://src.fedoraproject.org/rpms/cosmic-applets.git
+	branch = rawhide
+[submodule "cosmic-bg"]
+	path = cosmic-bg
+	url = https://src.fedoraproject.org/rpms/cosmic-bg.git
+	branch = rawhide
+[submodule "cosmic-comp"]
+	path = cosmic-comp
+	url = https://src.fedoraproject.org/rpms/cosmic-comp.git
+	branch = rawhide
+[submodule "cosmic-edit"]
+	path = cosmic-edit
+	url = https://src.fedoraproject.org/rpms/cosmic-edit.git
+	branch = rawhide
+[submodule "cosmic-files"]
+	path = cosmic-files
+	url = https://src.fedoraproject.org/rpms/cosmic-files.git
+	branch = rawhide
+[submodule "cosmic-greeter"]
+	path = cosmic-greeter
+	url = https://src.fedoraproject.org/rpms/cosmic-greeter.git
+	branch = rawhide
+[submodule "cosmic-icon-theme"]
+	path = cosmic-icon-theme
+	url = https://src.fedoraproject.org/rpms/cosmic-icon-theme.git
+	branch = rawhide
+[submodule "cosmic-idle"]
+	path = cosmic-idle
+	url = https://src.fedoraproject.org/rpms/cosmic-idle.git
+	branch = rawhide
+[submodule "cosmic-launcher"]
+	path = cosmic-launcher
+	url = https://src.fedoraproject.org/rpms/cosmic-launcher.git
+	branch = rawhide
+[submodule "cosmic-notifications"]
+	path = cosmic-notifications
+	url = https://src.fedoraproject.org/rpms/cosmic-notifications.git
+	branch = rawhide
+[submodule "cosmic-osd"]
+	path = cosmic-osd
+	url = https://src.fedoraproject.org/rpms/cosmic-osd.git
+	branch = rawhide
+[submodule "cosmic-panel"]
+	path = cosmic-panel
+	url = https://src.fedoraproject.org/rpms/cosmic-panel.git
+	branch = rawhide
+[submodule "cosmic-player"]
+	path = cosmic-player
+	url = https://src.fedoraproject.org/rpms/cosmic-player.git
+	branch = rawhide
+[submodule "cosmic-randr"]
+	path = cosmic-randr
+	url = https://src.fedoraproject.org/rpms/cosmic-randr.git
+	branch = rawhide
+[submodule "cosmic-screenshot"]
+	path = cosmic-screenshot
+	url = https://src.fedoraproject.org/rpms/cosmic-screenshot.git
+	branch = rawhide
+[submodule "cosmic-session"]
+	path = cosmic-session
+	url = https://src.fedoraproject.org/rpms/cosmic-session.git
+	branch = rawhide
+[submodule "cosmic-settings"]
+	path = cosmic-settings
+	url = https://src.fedoraproject.org/rpms/cosmic-settings.git
+	branch = rawhide
+[submodule "cosmic-settings-daemon"]
+	path = cosmic-settings-daemon
+	url = https://src.fedoraproject.org/rpms/cosmic-settings-daemon.git
+	branch = rawhide
+[submodule "cosmic-store"]
+	path = cosmic-store
+	url = https://src.fedoraproject.org/rpms/cosmic-store.git
+	branch = rawhide
+[submodule "cosmic-term"]
+	path = cosmic-term
+	url = https://src.fedoraproject.org/rpms/cosmic-term.git
+	branch = rawhide
+[submodule "cosmic-wallpapers"]
+	path = cosmic-wallpapers
+	url = https://src.fedoraproject.org/rpms/cosmic-wallpapers.git
+	branch = rawhide
+[submodule "cosmic-workspaces"]
+	path = cosmic-workspaces
+	url = https://src.fedoraproject.org/rpms/cosmic-workspaces.git
+	branch = rawhide
+[submodule "pop-launcher"]
+	path = pop-launcher
+	url = https://src.fedoraproject.org/rpms/pop-launcher.git
+	branch = rawhide
+[submodule "xdg-desktop-portal-cosmic"]
+	path = xdg-desktop-portal-cosmic
+	url = https://src.fedoraproject.org/rpms/xdg-desktop-portal-cosmic.git
+	branch = rawhide
