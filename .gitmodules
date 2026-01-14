@@ -98,3 +98,7 @@
 	path = xdg-desktop-portal-cosmic
 	url = https://src.fedoraproject.org/rpms/xdg-desktop-portal-cosmic.git
 	branch = rawhide
+[submodule "cosmic-initial-setup"]
+	path = cosmic-initial-setup
+	url = https://src.fedoraproject.org/rpms/cosmic-initial-setup.git
+	branch = rawhide
