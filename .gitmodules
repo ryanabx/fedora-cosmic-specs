@@ -102,3 +102,7 @@
 	path = cosmic-initial-setup
 	url = https://src.fedoraproject.org/rpms/cosmic-initial-setup.git
 	branch = rawhide
+[submodule "cosmic-monitor"]
+	path = cosmic-monitor
+	url = https://src.fedoraproject.org/rpms/cosmic-monitor.git
+	branch = rawhide
